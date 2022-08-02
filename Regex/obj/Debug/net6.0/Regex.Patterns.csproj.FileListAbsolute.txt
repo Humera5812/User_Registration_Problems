@@ -1,0 +1,15 @@
+C:\Users\Humera\source\repos\Regex\Regex\obj\Debug\net6.0\Regex.Patterns.csproj.AssemblyReference.cache
+C:\Users\Humera\source\repos\Regex\Regex\obj\Debug\net6.0\Regex.Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humera\source\repos\Regex\Regex\obj\Debug\net6.0\Regex.Patterns.AssemblyInfoInputs.cache
+C:\Users\Humera\source\repos\Regex\Regex\obj\Debug\net6.0\Regex.Patterns.AssemblyInfo.cs
+C:\Users\Humera\source\repos\Regex\Regex\obj\Debug\net6.0\Regex.Patterns.csproj.CoreCompileInputs.cache
+C:\Users\Humera\source\repos\Regex\Regex\bin\Debug\net6.0\Regex.Patterns.exe
+C:\Users\Humera\source\repos\Regex\Regex\bin\Debug\net6.0\Regex.Patterns.deps.json
+C:\Users\Humera\source\repos\Regex\Regex\bin\Debug\net6.0\Regex.Patterns.runtimeconfig.json
+C:\Users\Humera\source\repos\Regex\Regex\bin\Debug\net6.0\Regex.Patterns.dll
+C:\Users\Humera\source\repos\Regex\Regex\bin\Debug\net6.0\Regex.Patterns.pdb
+C:\Users\Humera\source\repos\Regex\Regex\obj\Debug\net6.0\Regex.Patterns.dll
+C:\Users\Humera\source\repos\Regex\Regex\obj\Debug\net6.0\refint\Regex.Patterns.dll
+C:\Users\Humera\source\repos\Regex\Regex\obj\Debug\net6.0\Regex.Patterns.pdb
+C:\Users\Humera\source\repos\Regex\Regex\obj\Debug\net6.0\Regex.Patterns.genruntimeconfig.cache
+C:\Users\Humera\source\repos\Regex\Regex\obj\Debug\net6.0\ref\Regex.Patterns.dll
